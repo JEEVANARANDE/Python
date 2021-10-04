@@ -1,0 +1,12 @@
+[2021-10-04 18:55:32,971: INFO: If_Else:] Number is above 14 i.e 51
+[2021-10-04 18:55:32,971: INFO: If_Else:] Values should be Integer and greater then 0, But we got 0
+[2021-10-04 18:55:32,972: INFO: If_Else:] Number is below 14 i.e 1
+[2021-10-04 18:55:32,972: INFO: If_Else:] Number is above 14 i.e 15
+[2021-10-04 18:55:32,972: INFO: If_Else:] '>' not supported between instances of 'str' and 'int'
+[2021-10-04 18:55:32,972: INFO: If_Else:] Values should be Integer and greater then 0, But we got -11
+[2021-10-04 18:57:07,595: INFO: If_Else:] Number is above 14 i.e 51
+[2021-10-04 18:57:07,595: INFO: If_Else:] Values should be Integer and greater then 0, But we got 0
+[2021-10-04 18:57:07,596: INFO: If_Else:] Number is below 14 i.e 1
+[2021-10-04 18:57:07,596: INFO: If_Else:] Number is above 14 i.e 15
+[2021-10-04 18:57:07,596: INFO: If_Else:] '>' not supported between instances of 'str' and 'int'
+[2021-10-04 18:57:07,596: INFO: If_Else:] Values should be Integer and greater then 0, But we got -11
