@@ -17,8 +17,9 @@ class Person:
         self.age = age
     def full_name(self):
         return f"{self.first_name} {self.last_name}"
-
-p1= Person("Jeevan","Arande",28)
+    def is_above_18(self):
+        return self.age > 18
+p1= Person("Jeevan","Arande",2)
 
 logging.info(p1.full_name())
-
+logging.info(p1.is_above_18())
