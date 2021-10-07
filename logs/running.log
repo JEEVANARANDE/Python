@@ -1,12 +1,32 @@
-[2021-10-04 18:55:32,971: INFO: If_Else:] Number is above 14 i.e 51
-[2021-10-04 18:55:32,971: INFO: If_Else:] Values should be Integer and greater then 0, But we got 0
-[2021-10-04 18:55:32,972: INFO: If_Else:] Number is below 14 i.e 1
-[2021-10-04 18:55:32,972: INFO: If_Else:] Number is above 14 i.e 15
-[2021-10-04 18:55:32,972: INFO: If_Else:] '>' not supported between instances of 'str' and 'int'
-[2021-10-04 18:55:32,972: INFO: If_Else:] Values should be Integer and greater then 0, But we got -11
-[2021-10-04 18:57:07,595: INFO: If_Else:] Number is above 14 i.e 51
-[2021-10-04 18:57:07,595: INFO: If_Else:] Values should be Integer and greater then 0, But we got 0
-[2021-10-04 18:57:07,596: INFO: If_Else:] Number is below 14 i.e 1
-[2021-10-04 18:57:07,596: INFO: If_Else:] Number is above 14 i.e 15
-[2021-10-04 18:57:07,596: INFO: If_Else:] '>' not supported between instances of 'str' and 'int'
-[2021-10-04 18:57:07,596: INFO: If_Else:] Values should be Integer and greater then 0, But we got -11
+[2021-10-06 13:38:33,313: INFO: Class:] sgfsl
+[2021-10-06 13:39:02,406: INFO: Class:] sgfsl
+[2021-10-06 13:39:02,407: INFO: Class:] Jeevan
+[2021-10-06 13:39:43,971: INFO: Class:] sgfsl
+[2021-10-06 13:39:43,972: INFO: Class:] Jeevan
+[2021-10-06 13:39:43,972: INFO: Class:] gafa
+[2021-10-06 15:25:40,295: INFO: Class:] sgfsl
+[2021-10-06 15:25:40,295: INFO: Class:] Jeevan
+[2021-10-06 15:25:40,295: INFO: Class:] Arande
+[2021-10-06 15:25:40,296: INFO: Class:] 28
+[2021-10-06 15:25:40,296: INFO: Class:] gafa
+[2021-10-06 15:25:40,296: INFO: Class:] gaha
+[2021-10-06 15:25:40,296: INFO: Class:] 27
+[2021-10-06 17:34:40,522: INFO: Class:] sgfsl
+[2021-10-06 17:34:40,522: INFO: Class:] Hp
+[2021-10-06 17:34:40,523: INFO: Class:] Jeevan
+[2021-10-06 17:34:40,523: INFO: Class:] Arande
+[2021-10-06 17:34:40,523: INFO: Class:] 28
+[2021-10-06 17:34:40,523: INFO: Class:] gafa
+[2021-10-06 17:34:40,523: INFO: Class:] gaha
+[2021-10-06 17:34:40,524: INFO: Class:] 27
+[2021-10-06 17:38:45,094: INFO: Class:] sgfsl
+[2021-10-06 17:38:45,095: INFO: Class:] Hp
+[2021-10-06 17:38:45,095: INFO: Class:] Hp au114tx
+[2021-10-06 17:38:45,095: INFO: Class:] Jeevan
+[2021-10-06 17:38:45,095: INFO: Class:] Arande
+[2021-10-06 17:38:45,095: INFO: Class:] 28
+[2021-10-06 17:38:45,095: INFO: Class:] gafa
+[2021-10-06 17:38:45,096: INFO: Class:] gaha
+[2021-10-06 17:38:45,096: INFO: Class:] 27
+[2021-10-06 17:51:15,419: INFO: instance_method:] Jeevan Arande
+[2021-10-06 17:53:28,652: INFO: instance_method:] Jeevan Arande
